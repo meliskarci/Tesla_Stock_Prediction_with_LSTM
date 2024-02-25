@@ -1,4 +1,4 @@
-###Tesla Stock Prediction with LSTM
+### Tesla Stock Prediction with LSTM
 
 We will try to predict Tesla's stock values in the stock market.
 We have data for Tesla from past years and we will develop a model using these past values. We will try to predict Tesla's stock closing prices in the future using the model we have developed.
